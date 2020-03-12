@@ -1,0 +1,6 @@
+[submodule "code-challenge-01"]
+	path = code-challenge-01
+	url = https://github.com/DaniSestan/code-challenge-01.git
+[submodule "code-challenge-02"]
+	path = code-challenge-02
+	url = https://github.com/DaniSestan/code-challenge-02.git
